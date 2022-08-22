@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 `npm install -g @angular/cli`
 
 ## Clone Proyect
-`git clone <https://github.com/IngServioPantoja/angular-app.git>`
+`git clone https://github.com/IngServioPantoja/angular-app`
 
 ## Development server
 
