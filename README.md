@@ -1,6 +1,14 @@
 # MyDreamApp
-
+## Install Node.js
+Install [Node.js](https://nodejs.org/en/) 
+## Install Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+
+## Install the Angular CLI globally:
+`npm install -g @angular/cli`
+
+## Clone Proyect
+`git clone <https://github.com/IngServioPantoja/angular-app.git>`
 
 ## Development server
 
